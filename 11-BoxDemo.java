@@ -16,7 +16,7 @@ class BoxDemo {
 
 class Box {
 
-    private float width, height, depth;
+    float width, height, depth;
     Box(float width, float height, float depth) {
         this.width = width;
         this.height = height;

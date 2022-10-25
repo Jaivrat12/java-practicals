@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // 9. WAP to show use of ternary operator.
+
+import java.util.Scanner;
 
 class TernaryOperator {
 

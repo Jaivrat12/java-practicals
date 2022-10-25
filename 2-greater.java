@@ -2,8 +2,6 @@
 
 import java.util.Scanner;
 
-// Find greater among 3 nos
-
 class Greater {
 
     public static void main(String[] args) {

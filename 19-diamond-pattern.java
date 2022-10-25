@@ -1,4 +1,4 @@
-// 19. Write a Java program to print Diamond Pattern
+// 19. WAP to print Diamond Pattern
 
 class DiamondPattern {
 
